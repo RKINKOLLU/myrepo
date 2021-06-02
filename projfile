@@ -1,0 +1,6 @@
+class One:
+a=10
+def main():
+print("a=",a)
+return
+One.main()
